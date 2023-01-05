@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/drawable-v24_mango.png.flat",
+        "source": "com.example.cropscanner.app-main-31:/drawable-v24/mango.png"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/drawable-v24_tomato.png.flat",
+        "source": "com.example.cropscanner.app-main-31:/drawable-v24/tomato.png"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/layout_activity_home.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/layout_activity_crops.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/layout/activity_crops.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/layout_cards_layout.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/layout/cards_layout.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/drawable-v24_santol.png.flat",
+        "source": "com.example.cropscanner.app-main-31:/drawable-v24/santol.png"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/layout_fragment_fruits.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/layout/fragment_fruits.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.cropscanner.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/drawable_ic_baseline_camera_alt_24.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/drawable/ic_baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/layout_activity_info.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/layout/activity_info.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/drawable-v24_rambutan.png.flat",
+        "source": "com.example.cropscanner.app-main-31:/drawable-v24/rambutan.png"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cropscanner.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/drawable-v24_banana.png.flat",
+        "source": "com.example.cropscanner.app-main-31:/drawable-v24/banana.png"
+    },
+    {
+        "merged": "com.example.cropscanner.app-merged_res-29:/layout_fragment_vegetables.xml.flat",
+        "source": "com.example.cropscanner.app-main-31:/layout/fragment_vegetables.xml"
+    }
+]
